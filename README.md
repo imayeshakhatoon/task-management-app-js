@@ -24,7 +24,7 @@ A dynamic and responsive Task Management Web App built using **HTML, CSS, and Ja
 - Conditional Rendering
 
 ## 📸 Preview
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/ca51f2eb-002e-4d15-a323-6794b80b2f20" /> <img width="1920" height="1080" alt="Screenshot 2026-03-01 024340" src="https://github.com/user-attachments/assets/24c1e4e6-526f-47b4-adde-9ec908191ff5" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-01 024340" src="https://github.com/user-attachments/assets/24c1e4e6-526f-47b4-adde-9ec908191ff5" />
 
 
 ## 🚀 Future Enhancements
