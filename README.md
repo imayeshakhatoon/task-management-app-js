@@ -19,7 +19,8 @@ A dynamic and responsive Task Management Web App built using **HTML, CSS, and Ja
 ## 🧠 Concepts Used
 - DOM Manipulation
 - Event Handling
-- Array Methods (splice, trim)
+- Array Manipulation using splice()
+- Input Validation using trim()
 - JSON Parsing & Stringifying
 - Conditional Rendering
 
